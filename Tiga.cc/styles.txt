@@ -1,0 +1,74 @@
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: grey;
+}
+
+header {
+background-color: #333;
+color: blue;
+padding: 10px;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin-right: 10px;
+}
+
+nav a {
+color: black;
+text-decoration: none;
+}
+
+form {
+margin-top: 10px;
+}
+
+input[type="text"] {
+padding: 5px;
+}
+
+button {
+padding: 5px 10px;
+background-color: blue;
+color: blue;
+border: none;
+cursor: pointer;
+}
+
+main {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 80vh;
+}
+
+.invitation-card {
+text-align: center;
+padding: 20px;
+border: 2px solid #333;
+border-radius: 10px;
+}
+
+button {
+padding: 10px 20px;
+background-color: #333;
+color: blue;
+border: none;
+cursor: pointer;
+margin-top: 10px;
+}
+
+footer {
+background-color: black;
+color: blue;
+text-align: center;
+padding: 10px;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ma Page Web Responsive</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="#">Accueil</a></li>
+<li><a href="#">À propos</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+<form>
+<input type="text" placeholder="Rechercher...">
+<button type="submit">Rechercher</button>
+</form>
+</header>
+<main>
+<div class="invitation-card">
+<h2>Bienvenue</h2>
+<p>Vous êtes cordialement invité à notre événement spécial.</p>
+<button>Confirmer votre présence</button>
+</div>
+</main>
+<footer>
+<p>&copy; 2021 Ma Page Web Responsive. Tous droits réservés.</p>
+</footer>
+</body>
+</html>
